@@ -1,0 +1,1 @@
+("~/" "~/github/i3-wm/" "~/github/")

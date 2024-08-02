@@ -1,0 +1,24 @@
+;;; -*- coding: utf-8; mode: lisp-data -*-
+(("/home/zeneto/Cuso_Python/Gerador_de_senha/"
+  (dired-filename . "/home/zeneto/Cuso_Python/Gerador_de_senha/pesquisa_em_lagura.py"))
+ ("/home/zeneto/Cuso_Python/Gerador_de_senha/pesquisa_em_lagura.py" . 467)
+ ("/home/zeneto/Cuso_Python/Gerador_de_senha/dataclase.py" . 241)
+ ("/home/zeneto/Cuso_Python/Gerador_de_senha/dataclasse2.py" . 157)
+ ("/home/zeneto/exmplo.py" . 100)
+ ("/home/zeneto/.config/emacs/.cache/treemacs-persist" . 29)
+ ("/home/zeneto/Cuso_Python/algoritimo/"
+  (dired-filename . "/home/zeneto/Cuso_Python/algoritimo/call_stack.py"))
+ ("/home/zeneto/Cuso_Python/algoritimo/call_stack.py" . 110)
+ ("/home/zeneto/Cuso_Python/algoritimo/soma.py" . 89)
+ ("/home/zeneto/.config/emacs/config.org" . 11775)
+ ("/home/zeneto/Cadastro/cadastro/main.py" . 183)
+ ("/home/zeneto/Cuso_Python/Gerador_de_senha/main.py" . 124)
+ ("/home/zeneto/.tmux.conf" . 376)
+ ("/home/zeneto/Automacao/"
+  (dired-filename . "/home/zeneto/Automacao/pagina.py"))
+ ("/home/zeneto/classe.py" . 292)
+ ("/home/zeneto/polygon.py" . 340)
+ ("/home/zeneto/mypoligon.py" . 112)
+ ("/home/zeneto/.config/emacs/"
+  (dired-filename . "/home/zeneto/.config/emacs/auto-save-list"))
+ ("/home/zeneto/exemplo.org" . 923))
